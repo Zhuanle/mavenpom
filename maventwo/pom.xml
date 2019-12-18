@@ -10,7 +10,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>maventwo</artifactId>
-
+    <packaging>jar</packaging>
     <name>maventwo</name>
     <!-- FIXME change it to the project's website -->
     <url>http://www.example.com</url>
@@ -31,7 +31,7 @@
         <dependency>
             <artifactId>mavenone</artifactId>
             <groupId>org.example</groupId>
-            <version>1.0-SNAPSHOT</version>
+
         </dependency>
     </dependencies>
 
